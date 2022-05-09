@@ -1,7 +1,7 @@
 Hi 👋 My name is Christian
 ==========================
 
-Developer Full Stack
+Full Stack
 ----------
 
 Graduated in Information and Communication Technologies, currently a Systems Engineering student. I like to innovate and learn new things, I am full stack frontend and backend.
@@ -28,9 +28,8 @@ Graduated in Information and Communication Technologies, currently a Systems Eng
                                 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
                     </p>
                     
-                  ### Socials
+### Socials
                   
                   
-                <p align="left">
-                          
-                      <a href="https://discord.com/users/ChristianVG#0298" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a></p>
+<p align="left">   
+                  <a href="https://discord.com/users/ChristianVG#0298" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a></p>
