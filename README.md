@@ -1,7 +1,7 @@
 Hi 👋 My name is Christian
 ==========================
 
-Full Stack
+Developer Full Stack
 ----------
 
 Graduated in Information and Communication Technologies, currently a Systems Engineering student. I like to innovate and learn new things, I am full stack frontend and backend.
